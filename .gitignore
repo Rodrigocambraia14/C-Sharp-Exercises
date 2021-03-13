@@ -1,0 +1,77 @@
+
+exercises/altura/altura.csproj
+*.json
+*.dll
+*.exe
+*.pdb
+*.props
+*.targets
+*.cache
+*.txt
+*.csproj
+exercises/tresInteiros/obj/Debug/netcoreapp3.1/tresInteiros.AssemblyInfo.cs
+exercises/temperatura/obj/Debug/netcoreapp3.1/C#.AssemblyInfo.cs
+exercises/tresInteiros/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/temperatura/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/sucessorAntecessor/obj/Debug/netcoreapp3.1/sucessorAntecessor.AssemblyInfo.cs
+exercises/sucessorAntecessor/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/sinalCores/obj/Debug/netcoreapp3.1/sinalCores.AssemblyInfo.cs
+exercises/sinalCores/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/raioAreaCirculo/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/raioAreaCirculo/obj/Debug/netcoreapp3.1/raioAreaCirculo.AssemblyInfo.cs
+exercises/passagemOnibus/obj/Debug/netcoreapp3.1/passagemOnibus.AssemblyInfo.cs
+exercises/passagemOnibus/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/partidaDeFutebol/obj/Debug/netcoreapp3.1/partidaDeFutebol.AssemblyInfo.cs
+exercises/partidaDeFutebol/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/PAlaço/obj/Debug/netcoreapp3.1/PAlaço.AssemblyInfo.cs
+exercises/PAlaço/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/numerosCrescente/obj/Debug/netcoreapp3.1/numerosCrescente.AssemblyInfo.cs
+exercises/numerosCrescente/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/mediaNota/obj/Debug/netcoreapp3.1/projeto2.AssemblyInfo.cs
+exercises/mediaNota/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/mediaAprov/obj/Debug/netcoreapp3.1/mediaAprov.AssemblyInfo.cs
+exercises/mediaAprov/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/litroCombustivel/obj/Debug/netcoreapp3.1/litroCombustivel.AssemblyInfo.cs
+exercises/litroCombustivel/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/LaçoArray/obj/Debug/netcoreapp3.1/LaçoArray.AssemblyInfo.cs
+exercises/LaçoArray/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/Laço salario/obj/Debug/netcoreapp3.1/Laço salario.AssemblyInfo.cs
+exercises/Laço salario/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/Laço salario (posTeste)/obj/Debug/netcoreapp3.1/Laço salario (posTeste).AssemblyInfo.cs
+exercises/Laço salario (posTeste)/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/Laço salario (for)/obj/Debug/netcoreapp3.1/Laço salario (for).AssemblyInfo.cs
+exercises/Laço salario (for)/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/idadeDia/obj/Debug/netcoreapp3.1/Nova pasta.AssemblyInfo.cs
+exercises/idadeDia/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/habilitação/obj/Debug/netcoreapp3.1/habilitação.AssemblyInfo.cs
+exercises/habilitação/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/geradorSenha/obj/Debug/netcoreapp3.1/atividade2.AssemblyInfo.cs
+exercises/geradorSenha/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/fatorial/obj/Debug/netcoreapp3.1/fatorial.AssemblyInfo.cs
+exercises/fatorial/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/exercicio/obj/Debug/netcoreapp3.1/exercicio.AssemblyInfo.cs
+exercises/exercicio/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/descontoCliente/obj/Debug/netcoreapp3.1/descontoCliente.AssemblyInfo.cs
+exercises/descontoCliente/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/contadorParImpar/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/contadorParImpar/obj/Debug/netcoreapp3.1/a3000num.AssemblyInfo.cs
+exercises/Cavalos/obj/Debug/netcoreapp3.1/Cavalos.AssemblyInfo.cs
+exercises/Cavalos/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/calculadoraSwitch/obj/Debug/netcoreapp3.1/calculadoraSwitch.AssemblyInfo.cs
+exercises/calculadoraSwitch/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/calculadora/obj/Debug/netcoreapp3.1/calculadora.AssemblyInfo.cs
+exercises/calculadora/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/CadProdutos/obj/Debug/netcoreapp3.1/CadProdutos.AssemblyInfo.cs
+exercises/CadProdutos/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/Automovel/obj/Debug/netcoreapp3.1/Automovel.AssemblyInfo.cs
+exercises/Automovel/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/Array/obj/Debug/netcoreapp3.1/Array.AssemblyInfo.cs
+exercises/Array/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/areaTriangulo/obj/Debug/netcoreapp3.1/projeto3.AssemblyInfo.cs
+exercises/areaTriangulo/obj/Debug/netcoreapp3.1/areaTriangulo.AssemblyInfo.cs
+exercises/areaTriangulo/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/altura/obj/Debug/netcoreapp3.1/altura.AssemblyInfo.cs
+exercises/altura/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+exercises/CadProdutos/obj/Debug/netcoreapp3.1/CadProdutos.csproj.CopyComplete
+exercises/CadProdutos/ProdutoRepository.cs
+exercises/CadProdutos/Program.cs
